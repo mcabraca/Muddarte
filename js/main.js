@@ -53,10 +53,14 @@ const galleryImages = [
    ------------------------------------------------------- */
 const heroImages = [
   {
+    src: 'images/home/gabacha.png',
+    alt: 'Costura de ropa – Muddarte Limón Costa Rica'
+  },
+  {
     src: 'images/home/vestido-3.jpeg',
     alt: 'Confección de vestido personalizado – Muddarte Limón Costa Rica'
   },
-   {
+  {
     src: 'images/home/vestido-1.png',
     alt: 'Confección de vestido personalizado – Muddarte Limón Costa Rica'
   },
