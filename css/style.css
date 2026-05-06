@@ -77,13 +77,8 @@
   font-display: swap;
 }
 
-
-/* -------------------------------------------------------
-   VARIABLES DE MARCA
-   CAMBIAR AQUÍ para actualizar la paleta de colores
-   ------------------------------------------------------- */
 :root {
-  /* Colores principales – basados en el manual de marca Muddarte */
+  /* Colores principales*/
   --primary: #E63C80;
   /* Rosa principal del logo */
   --primary-dark: #C42E6B;
